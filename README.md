@@ -5,6 +5,7 @@ The simple ☘️ Plant Animation Ui Project ☘️
 
 ## tools
 Using Getx as a state Management and animate_do to make animation 
+
 Using flutter_screenutil package to make app # Responsive to Other platforms
 
 A few resources to get you started if this is your first Flutter project:
