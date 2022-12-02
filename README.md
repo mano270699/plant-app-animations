@@ -2,7 +2,7 @@
 The simple ☘️ Plant Animation Ui Project ☘️
 
 ## Getting Started
-Using Getx as a state Management and animation_do take animation 
+Using Getx as a state Management and animate_do to make animation 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
