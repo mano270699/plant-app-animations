@@ -1,7 +1,9 @@
 # animated_plant_ui
 The simple ☘️ Plant Animation Ui Project ☘️
+## Image Preview
+![WhatsApp Image 2022-12-02 at 10 02 43 AM](https://user-images.githubusercontent.com/61879431/205302034-dbada289-c23c-4c57-8279-1577c126b090.jpeg)
 
-## Getting Started
+## tools
 Using Getx as a state Management and animate_do to make animation 
 This project is a starting point for a Flutter application.
 
